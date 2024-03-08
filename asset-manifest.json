@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "http://lhj5924.github.io/Nomad-React-Practice-Movie/static/js/main.e53daf92.js",
-    "index.html": "http://lhj5924.github.io/Nomad-React-Practice-Movie/index.html",
-    "main.e53daf92.js.map": "http://lhj5924.github.io/Nomad-React-Practice-Movie/static/js/main.e53daf92.js.map"
+    "main.js": "https://lhj5924.github.io/Nomad-React-Practice-Movie/static/js/main.fce60807.js",
+    "index.html": "https://lhj5924.github.io/Nomad-React-Practice-Movie/index.html",
+    "main.fce60807.js.map": "https://lhj5924.github.io/Nomad-React-Practice-Movie/static/js/main.fce60807.js.map"
   },
   "entrypoints": [
-    "static/js/main.e53daf92.js"
+    "static/js/main.fce60807.js"
   ]
 }
